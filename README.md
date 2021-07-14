@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @partitionlawyer
 - 👀 I’m interested in ... California partition law
 - 💞️ I’m looking to collaborate on ... co-ownership disputes
-- 📫 How to reach me ... info@partitionalawyer.com
+- 📫 How to reach me ... info@partitionlawyer.com
 
 <!---
 partitionlawyer/partitionlawyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
